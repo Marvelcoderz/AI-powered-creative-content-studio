@@ -29,7 +29,7 @@ All in a single click — without writing a single line of code.
   - Educational & Edutainment
   - Experimental, Meta & Thoughtful
 - 🖼️ **Generate images in 50+ styles**, including:
-  - Watercolor, 3D Render, Anime, Cyberpunk, Blueprint, Crayon, Vintage Comic, Chalkboard, Ink Wash, and more..
+  - Watercolour, 3D Render, Anime, Cyberpunk, Blueprint, Crayon, Vintage Comic, Chalkboard, Ink Wash, and more..
 - 🎼 **Choose from 30+ tone styles** (e.g., Emotional, Ironic, Minimalist, Surreal, Motivational)
 - 💬 **Chat with Imaginera** – your built-in GPT-4 assistant that helps you brainstorm, write, ideate, and improve your creative content
 
@@ -40,7 +40,7 @@ All in a single click — without writing a single line of code.
 - [Streamlit](https://streamlit.io/)
 - [OpenAI API (GPT-4 + DALL·E 3)](https://platform.openai.com/)
 - Python 3.13.4
-- HTML & CSS (via Streamlit component customization)
+- HTML & CSS (via Streamlit component customisation)
 - Requests, Pillow (for downloads and image handling)
 
 ---
@@ -58,7 +58,7 @@ To use the app, you’ll need your **own OpenAI API key**. You can get one from:
 ## Installation & Running Locally
 
 ```bash
-[git clone https://github.com/Marvelcoderz/AI-powered-creative-content-studio]
+git clone https://github.com/Marvelcoderz/AI-powered-creative-content-studio
 cd creative-content-studio
 pip install -r requirements.txt
 python -m streamlit run app.py
