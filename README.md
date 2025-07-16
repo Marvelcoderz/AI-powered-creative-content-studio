@@ -58,7 +58,7 @@ To use the app, you’ll need your **own OpenAI API key**. You can get one from:
 ## Installation & Running Locally
 
 ```bash
-git clone https://github.com/AnannyaSingh-ana/creative-content-studio.git
+[git clone https://github.com/Marvelcoderz/AI-powered-creative-content-studio]
 cd creative-content-studio
 pip install -r requirements.txt
 python -m streamlit run app.py
